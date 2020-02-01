@@ -1,7 +1,0 @@
-
-Version: 0.1  
-My name is: Kabindra Shrestha
-I like Git! True
- 
-
-     
